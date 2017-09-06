@@ -1,0 +1,73 @@
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100px;
+}
+.imgfull {
+    width: 70%;
+}
+
+.imgmed {
+    width: 300px;
+}
+
+s30 {
+    font-size: 30px;
+    font-style: normal;
+    display: block;
+}
+
+s25 {
+    font-size: 25px;
+    display: block;
+}
+
+s22 {
+    font-size: 22px;
+}
+
+s20 {
+    font-size: 20px;
+    display: block;
+}
+
+s15 {
+    font-size: 15px;
+    display: block;
+}
+
+s10 {
+    font-size: 10px;
+    display: block;
+}
+
+hl {
+    color: cornflowerblue;
+}
+
+.setwidth50p {
+    width: 50%;
+}
+
+.clear {
+    clear: left;
+}
+
+.boardless {
+    text-align: center;
+    margin: 0 auto;
+    border: none;
+}
+.setcenter {
+    text-align: center;
+}
+
+topic_album {
+    font-size: 35px;
+    border: 1px black;
+}
+
+s22 {
+    font-size: 20px;
+}
