@@ -71,3 +71,30 @@ topic_album {
 s22 {
     font-size: 20px;
 }
+
+details {
+    font-size: 20px;
+}
+
+.spacebwitem {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.btn.btn-primary.btn-lg.setmargin {
+    margin-top: 20px;
+}
+.redthis {
+    color: #FA5882;
+}
+
+.setmargin20px {
+    margin-top: 20px;
+}
+
+.notsaleinthismoment {
+    text-align: center;
+    padding: 15px;
+    background: black;
+    color: white;
+}
